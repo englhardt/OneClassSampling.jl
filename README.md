@@ -4,7 +4,7 @@ _A Julia package for Sampling Strategies for One-Class Classification._
 This package implements sampling strategies for one-class classification.
 For more information about this research project, see the [project](https://www.ipd.kit.edu/ocs/) website, and the companion paper.
 
-> Adrian Englhardt, Holger Trittenbach, Daniel Kottke, Bernhard Sick, Klemens Böhm, "Efficient SVDD Sampling with Approximation Guarantees for the Decision Boundary", [arXiv:2009.13853](https://arxiv.org/abs/2009.13853), 2020.
+> Adrian Englhardt, Holger Trittenbach, Daniel Kottke, Bernhard Sick, Klemens Böhm, "Efficient SVDD sampling with approximation guarantees for the decision boundary", Machine Learning (2022), DOI: [10.1007/s10994-022-06149-0](https://doi.org/10.1007/s10994-022-06149-0).
 
 ## Installation
 This package requires at least Julia 1.3.
